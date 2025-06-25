@@ -1,6 +1,7 @@
 import { FaFacebook, FaInstagram, FaTwitter, FaGithub } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
+
 const Footer = () => (
   <footer className="w-full bg-gray-900 text-gray-400 py-10 mt-auto border-t border-emerald-800">
     <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">

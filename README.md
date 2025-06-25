@@ -1,7 +1,6 @@
 GreenWardrobe
 
-### Setup .env file
-
+#.env
 PORT=5000
 MONGO_URI=
 UPSTASH_REDIS_URL=
